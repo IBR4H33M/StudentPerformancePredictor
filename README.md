@@ -6,9 +6,9 @@ A machine learning system that predicts a student's exam score (0–100) and ass
 
 ## Background
 
-The initial phase of this project was a **collaborative work done as part of CSE422 – Artificial Intelligence**, completed together with a peer. The goal was to explore the different factors affecting student academic performance using machine learning techniques.
+The initial phase of this project was a **collaborative work done as part of CSE422 - Artificial Intelligence**, completed together with a peer. The goal was to explore the different factors affecting student academic performance using machine learning techniques.
 
-The initial work is in [`project_code_initial.ipynb`](./project_code_initial.ipynb) and focused on **classification analysis** — continuous exam scores were converted into discrete grade categories to allow comparison of classification models:
+The initial work is in [`project_code_initial.ipynb`](./project_code_initial.ipynb) and focused on **classification analysis** - continuous exam scores were converted into discrete grade categories to allow comparison of classification models:
 
 | Model | Accuracy |
 |---|---|
@@ -18,7 +18,7 @@ The initial work is in [`project_code_initial.ipynb`](./project_code_initial.ipy
 
 The project was also **expanded to include regression analysis**, predicting exact numerical scores using Linear Regression and KNN algorithms.
 
-All subsequent work — including the Flask REST API, preprocessing pipeline for deployment, model serialization, and the web integration — was **independently implemented by me**.
+All subsequent work - including the Flask REST API, preprocessing pipeline for deployment, model serialization, and the web integration - was **independently implemented by me**.
 
 ---
 
